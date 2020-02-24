@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: rgb(59, 59, 59);
+  width: 750px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  padding-top: 30px;
+}
+
+label {
+  display: block;
+  margin: 20px;
+  color: white;
+  margin-left: 180px;
+  width: 100px;
+}
+
+input::placeholder {
+  color: white;
+  font-size: 15px;
+}
+
+input {
+  width: 420px;
+  margin-left: 175px;
+  height: 40px;
+  background-color: rgb(59, 59, 59);
+  color: white;
+}
+
+.error {
+  color: red;
+}
