@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import validator from "validator"
-import "../styles/styling.css"
+import "../styles/formstyling.css"
 
 export default props => {
   const [name, setName] = useState("")

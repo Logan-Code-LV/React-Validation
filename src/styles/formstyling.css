@@ -16,6 +16,10 @@ h1 {
   padding-top: 30px;
 }
 
+.success {
+  color: black;
+}
+
 label {
   display: block;
   margin: 20px;
