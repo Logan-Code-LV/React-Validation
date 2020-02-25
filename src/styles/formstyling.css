@@ -16,10 +16,6 @@ h1 {
   padding-top: 30px;
 }
 
-.success {
-  color: black;
-}
-
 label {
   display: block;
   margin: 20px;
@@ -39,8 +35,15 @@ input {
   height: 40px;
   background-color: rgb(59, 59, 59);
   color: white;
+  margin-bottom: 5px;
 }
 
 .error {
   color: red;
+}
+
+button {
+  display: block;
+  width: 80px;
+  margin: 0 auto;
 }
